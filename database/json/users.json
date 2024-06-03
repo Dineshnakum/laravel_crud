@@ -1,0 +1,51 @@
+[
+    {
+        "name": "bhargav",
+        "email": "bhargav@gmail.com",
+        "age":"21",
+        "city":"falla"
+    },
+    {
+        "name": "harshit",
+        "email": "harshit@gmail.com",
+        "age":"25",
+        "city":"rajkot"
+
+    },
+    {
+        "name": "princy",
+        "email": "princy@gmail.com",
+        "age":"21",
+        "city":"rajkot"
+    },
+    {
+        "name": "Dinesh",
+        "email": "Dinesh@gmail.com",
+        "age":"21",
+        "city":"khambhaliya"
+    },
+    {
+        "name": "pande",
+        "email": "pande@gmail.com",
+        "age":"21",
+        "city":"UP"
+    },
+    {
+        "name": "aadi",
+        "email": "aadi@gmail.com",
+        "age":"25",
+        "city":"ahemdabad"
+    },
+    {
+        "name": "nilesh",
+        "email": "nilesh@gmail.com",
+        "age":"22",
+        "city":"surat"
+    },
+    {
+        "name": "charul",
+        "email": "charul@gmail.com",
+        "age":"19",
+        "city":"rajkot"
+    }
+]
